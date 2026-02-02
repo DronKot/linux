@@ -1,6 +1,13 @@
 # Instruction
 
-![Error message when start Steam](error.png)"Error message when start Steam"
+##Problem when starting Steam.
+
+If you you log out of Steam and tring to start Steam again you might get this error message:
+
+![Error message when start Steam](error.png)
+"Error message when start Steam"
+
+This instructions will help you to fix this problem.
 
 1.  Rigth-Click on libGL.so.1.7.0 file on this page and Choose " Save Link as...". 
 And save it to Downloads folder.
