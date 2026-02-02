@@ -1,5 +1,7 @@
 # Instruction
 
+![Error message when start Steam](error.png)"Error message when start Steam"
+
 1.  Rigth-Click on libGL.so.1.7.0 file on this page and Choose " Save Link as...". 
 And save it to Downloads folder.
 
@@ -10,7 +12,7 @@ And save it to Downloads folder.
 
    >  sudo mv /usr/lib/libGL.so.1.1.7 /usr/lib/libGL.so.1.7.0.old
 
-4. Then copy our new file into /usr/liv folder to subtitute file by typing:
+4. Then copy our new file into /usr/lib folder to subtitute file by typing:
 
      > sudo cp libGL.so.1.7.0 /usr/lib/
 
